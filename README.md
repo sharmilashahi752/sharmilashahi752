@@ -16,12 +16,21 @@ I build practical web applications, business systems, and backend-driven product
 
 ## 👩‍💻 About Me
 
-- 💼 **Web Developer at WebPal**
-- 🧩 Previously **Software Developer at Cyberium Technology Pvt. Ltd.**
-- 🛠️ Focused on full-stack development, backend systems, APIs, databases, and deployment
-- ☁️ Growing deeper into Docker, AWS, cloud deployment, and production workflows
-- 🎓 B.Tech in Information Technology — Lumbini Technological University
-- 🌏 Open to professional opportunities, collaborations, and real-world product work
+> I like working on the complete product journey — understanding the problem, shaping the database and API layer, building the interface, and taking the application through deployment.
+
+I’m a **Full-Stack Developer** with hands-on experience building real web applications and business systems. My strongest area is backend-driven development with **Laravel, PHP, MySQL, and REST APIs**, supported by modern frontend work in **React, Next.js, JavaScript, and TypeScript**.
+
+| | |
+|---|---|
+| 💼 **Current** | Web Developer at **WebPal** |
+| 🧩 **Previous** | Software Developer at **Cyberium Technology Pvt. Ltd.** |
+| ⚙️ **I enjoy solving** | Backend logic, APIs, database workflows, admin systems, integrations, and deployment issues |
+| 🧠 **How I work** | Practical first — understand the requirement, keep the architecture clear, and build for maintainability |
+| ☁️ **Growing into** | Docker, AWS, cloud deployment, and production workflows |
+| 🎓 **Education** | B.Tech in Information Technology — **Lumbini Technological University** |
+| 🤝 **Open to** | Full-time roles, remote opportunities, freelance projects, and product collaborations |
+
+**What I bring:** the ability to move comfortably between the user-facing interface and the backend system behind it — without losing sight of the actual business problem being solved.
 
 ---
 
