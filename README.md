@@ -14,7 +14,7 @@ I build practical web applications, business systems, and backend-driven product
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
 > I like working on the complete product journey — understanding the problem, shaping the database and API layer, building the interface, and taking the application through deployment.
 
@@ -34,7 +34,7 @@ I’m a **Full-Stack Developer** with hands-on experience building real web appl
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -51,7 +51,7 @@ I’m a **Full-Stack Developer** with hands-on experience building real web appl
 
 ---
 
-## 🚀 Selected Projects
+## Selected Projects
 
 | Project | What I Built | Tech |
 |---|---|---|
@@ -64,7 +64,7 @@ I’m a **Full-Stack Developer** with hands-on experience building real web appl
 
 ---
 
-## 💼 Experience
+## Experience
 
 ### [WebPal](https://webpal.it/)
 **Web Developer** · 2026 — Present
@@ -82,7 +82,7 @@ Worked on application features, database-driven workflows, debugging, implementa
 
 ---
 
-## 🧠 What I Work With
+## What I Work With
 
 ```text
 Frontend      React · Next.js · JavaScript · TypeScript · Tailwind CSS · Bootstrap
@@ -94,7 +94,7 @@ Workflow      Git · GitHub · Composer · npm · VS Code
 
 ---
 
-## 📊 GitHub Activity
+## GitHub Activity
 
 <div align="center">
 
@@ -112,7 +112,7 @@ Workflow      Git · GitHub · Composer · npm · VS Code
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
 - Building maintainable full-stack applications
 - Improving Laravel and backend architecture
@@ -122,7 +122,7 @@ Workflow      Git · GitHub · Composer · npm · VS Code
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 <div align="center">
 
