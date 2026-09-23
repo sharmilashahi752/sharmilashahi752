@@ -99,15 +99,31 @@ Worked on application features, database-driven workflows, debugging, implementa
 
 ---
 
-## What I Work With
+## Engineering Toolkit
 
-```text
-Frontend      React · Next.js · JavaScript · TypeScript · Tailwind CSS · Bootstrap
-Backend       Laravel · PHP · REST APIs
-Database      MySQL · PostgreSQL
-DevOps        Docker · AWS · Vercel
-Workflow      Git · GitHub · Composer · npm · VS Code
-```
+I work across the full application lifecycle — from interface development and API design to databases, deployment, and day-to-day engineering workflows.
+
+| Area | Core Technologies | How I Use Them |
+|---|---|---|
+| **Frontend** | React · Next.js · JavaScript · TypeScript · Tailwind CSS · Bootstrap | Responsive interfaces, reusable components, dashboards, forms, and customer-facing experiences |
+| **Backend** | Laravel · PHP · REST APIs | Business logic, authentication, APIs, admin workflows, integrations, and server-side application features |
+| **Database** | MySQL · PostgreSQL | Schema design, relational data, queries, migrations, reporting, and application data workflows |
+| **DevOps & Deployment** | Docker · AWS · Vercel | Local environments, containerized workflows, deployment, hosting, and production delivery |
+| **Development Workflow** | Git · GitHub · Composer · npm · VS Code | Version control, dependency management, collaboration, debugging, and release workflows |
+
+### Core Strengths
+
+<div align="center">
+
+![Full Stack](https://img.shields.io/badge/Full--Stack-Development-8B5CF6?style=for-the-badge)
+![Backend](https://img.shields.io/badge/Backend-Laravel%20%26%20PHP-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![APIs](https://img.shields.io/badge/APIs-REST-0EA5E9?style=for-the-badge)
+![Database](https://img.shields.io/badge/Databases-MySQL%20%26%20PostgreSQL-F59E0B?style=for-the-badge)
+![DevOps](https://img.shields.io/badge/DevOps-Docker%20%26%20AWS-2563EB?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
+
+> My strongest area is backend-driven full-stack development: designing clear data flows, building reliable application logic, connecting it to usable interfaces, and getting the product ready for deployment.
 
 ---
 
