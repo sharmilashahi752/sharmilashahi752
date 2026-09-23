@@ -131,15 +131,19 @@ I work across the full application lifecycle — from interface development and 
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sharmilashahi752&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" alt="Sharmila's GitHub stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sharmilashahi752&theme=github" alt="Sharmila's GitHub profile summary" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharmilashahi752&layout=compact&hide_border=true&langs_count=8" alt="Sharmila's top languages" />
+<br/>
 
-</div>
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sharmilashahi752&theme=github" alt="Repositories by language" />
 
-<div align="center">
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sharmilashahi752&theme=github" alt="Most committed languages" />
 
-<img src="https://streak-stats.demolab.com?user=sharmilashahi752&hide_border=true" alt="GitHub contribution streak" />
+<br/>
+
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sharmilashahi752&theme=github" alt="GitHub statistics" />
+
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sharmilashahi752&theme=github&utcOffset=5.75" alt="Productive coding time" />
 
 </div>
 
