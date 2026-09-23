@@ -4,6 +4,8 @@
 
 I work across frontend and backend development with **Laravel, PHP, React, Next.js, JavaScript, TypeScript, MySQL, PostgreSQL, and REST APIs**.
 
+Currently working as a **Web Developer at WebPal**. Previously worked as a **Software Developer at Cyberium Technology Pvt. Ltd.**
+
 ## Tech Stack
 
 **Frontend**  
@@ -26,7 +28,7 @@ Academic result management system with role-based dashboards, result management,
 ### [Tejasmanyata Healthcare Website](https://github.com/sharmilashahi752/healthcare-site)
 Responsive healthcare product website built with Next.js and React, including product browsing, cart, checkout, authentication views, and company pages.
 
-### [Hotel / Hospitality Platform](https://github.com/sharmilashahi752/hotel-website)
+### [Tiger Track Resort — Hospitality Platform](https://github.com/sharmilashahi752/hotel-website)
 Full-stack hospitality platform built with Next.js, Laravel, PHP, and MySQL.
 
 ### [Developer Portfolio](https://github.com/sharmilashahi752/portfolio)
@@ -38,11 +40,6 @@ Personal developer portfolio built with React and Vite.
 
 **Cyberium Technology Pvt. Ltd.** — Software Developer
 
-## Education
-
-**B.Tech in Information Technology**  
-Lumbini Technological University
-
 ## Currently
 
 - Building and improving full-stack web applications
@@ -51,4 +48,6 @@ Lumbini Technological University
 
 ## Connect
 
+- Portfolio: https://www.sharmilashahi1.com.np/
+- LinkedIn: https://www.linkedin.com/in/sharmila-shahi-a3a572218/
 - GitHub: https://github.com/sharmilashahi752
