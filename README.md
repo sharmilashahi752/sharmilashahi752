@@ -48,6 +48,8 @@ I build practical web applications, business systems, and backend-driven product
 |---|---|---|
 | **Tiger Track Resort** 🔒 | Full-stack hospitality platform with public resort content, reservation workflows, customer/corporate views, and admin operations. | Next.js · Laravel · PHP · MySQL |
 | **Tejasmanyata Healthcare** 🔒 | Responsive healthcare product website with product browsing, cart, checkout, authentication views, and API-backed data flows. | Next.js · React · JavaScript · Tailwind CSS |
+| **Bravo Digital World** 🔒 | Full-stack TV retail website and admin system for products, stores, orders, registrations, warranties, service tickets, and business operations. | Laravel Blade · PHP · MySQL · JavaScript · Bootstrap |
+| **The Public Today** 🔒 | News publishing platform with category pages, search, trending content, photo stories, videos, and a Laravel-backed content API. | React · TypeScript · Laravel · PostgreSQL |
 | **[Result Management System](https://github.com/sharmilashahi752/groupprojectResultify)** | Academic result management system with role-based dashboards, result management, charts, notices, and downloadable marksheets. | PHP · MySQL · JavaScript · Bootstrap |
 | **[Developer Portfolio](https://github.com/sharmilashahi752/portfolio)** | Personal portfolio showcasing projects, skills, education, achievements, and contact information. | React · Vite · Framer Motion · GSAP |
 
