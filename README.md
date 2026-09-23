@@ -127,23 +127,15 @@ I work across the full application lifecycle — from interface development and 
 
 ---
 
-## GitHub Activity
+## Contribution Snake
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sharmilashahi752&theme=github" alt="Sharmila's GitHub profile summary" />
-
-<br/>
-
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sharmilashahi752&theme=github" alt="Repositories by language" />
-
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sharmilashahi752&theme=github" alt="Most committed languages" />
-
-<br/>
-
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sharmilashahi752&theme=github" alt="GitHub statistics" />
-
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sharmilashahi752&theme=github&utcOffset=5.75" alt="Productive coding time" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sharmilashahi752/sharmilashahi752/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sharmilashahi752/sharmilashahi752/output/github-contribution-grid-snake.svg">
+  <img alt="Sharmila Shahi contribution snake animation" src="https://raw.githubusercontent.com/sharmilashahi752/sharmilashahi752/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
