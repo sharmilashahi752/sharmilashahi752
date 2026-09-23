@@ -46,8 +46,8 @@ I build practical web applications, business systems, and backend-driven product
 
 | Project | What I Built | Tech |
 |---|---|---|
-| **[Tiger Track Resort](https://github.com/sharmilashahi752/hotel-website)** | Full-stack hospitality platform with public resort content, reservation workflows, customer/corporate views, and admin operations. | Next.js · Laravel · PHP · MySQL |
-| **[Tejasmanyata Healthcare](https://github.com/sharmilashahi752/healthcare-site)** | Responsive healthcare product website with product browsing, cart, checkout, authentication views, and API-backed data flows. | Next.js · React · JavaScript · Tailwind CSS |
+| **Tiger Track Resort** 🔒 | Full-stack hospitality platform with public resort content, reservation workflows, customer/corporate views, and admin operations. | Next.js · Laravel · PHP · MySQL |
+| **Tejasmanyata Healthcare** 🔒 | Responsive healthcare product website with product browsing, cart, checkout, authentication views, and API-backed data flows. | Next.js · React · JavaScript · Tailwind CSS |
 | **[Result Management System](https://github.com/sharmilashahi752/groupprojectResultify)** | Academic result management system with role-based dashboards, result management, charts, notices, and downloadable marksheets. | PHP · MySQL · JavaScript · Bootstrap |
 | **[Developer Portfolio](https://github.com/sharmilashahi752/portfolio)** | Personal portfolio showcasing projects, skills, education, achievements, and contact information. | React · Vite · Framer Motion · GSAP |
 
