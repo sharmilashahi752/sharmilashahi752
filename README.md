@@ -132,9 +132,9 @@ I work across the full application lifecycle — from interface development and 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sharmilashahi752/sharmilashahi752/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sharmilashahi752/sharmilashahi752/output/github-contribution-grid-snake.svg">
-  <img alt="Sharmila Shahi contribution snake animation" src="https://raw.githubusercontent.com/sharmilashahi752/sharmilashahi752/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sharmilashahi752/sharmilashahi752/gh-pages/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sharmilashahi752/sharmilashahi752/gh-pages/github-contribution-grid-snake.svg">
+  <img alt="Sharmila Shahi contribution snake animation" src="https://raw.githubusercontent.com/sharmilashahi752/sharmilashahi752/gh-pages/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
