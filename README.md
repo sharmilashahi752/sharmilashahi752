@@ -66,37 +66,19 @@ I’m a **Full-Stack Developer** with hands-on experience building real web appl
 
 ## 💼 Experience
 
-<table>
-<tr>
-<td width="72" align="center">
-  <a href="https://webpal.it/" target="_blank">
-    <img src="https://www.google.com/s2/favicons?domain=webpal.it&sz=128" width="52" height="52" alt="WebPal logo" />
-  </a>
-</td>
-<td>
-  <h3><a href="https://webpal.it/" target="_blank">WebPal</a></h3>
-  <b>Web Developer</b> · 2026 — Present<br/><br/>
-  Building and improving real web applications and business workflows across frontend, backend, debugging, integrations, APIs, databases, and deployment.<br/><br/>
-  <a href="https://webpal.it/" target="_blank"><img src="https://img.shields.io/badge/Visit%20Website-webpal.it-111111?style=flat-square&logo=googlechrome&logoColor=white" alt="WebPal website" /></a>
-</td>
-</tr>
-</table>
+### [WebPal](https://webpal.it/)
+**Web Developer** · 2026 — Present
 
-<table>
-<tr>
-<td width="72" align="center">
-  <a href="https://www.cyberiumtech.com.au/" target="_blank">
-    <img src="https://www.google.com/s2/favicons?domain=cyberiumtech.com.au&sz=128" width="52" height="52" alt="Cyberium Technologies logo" />
-  </a>
-</td>
-<td>
-  <h3><a href="https://www.cyberiumtech.com.au/" target="_blank">Cyberium Technology Pvt. Ltd.</a></h3>
-  <b>Software Developer</b> · 2024 — 2025<br/><br/>
-  Worked on application features, database-driven workflows, debugging, implementation, and practical software development across real project requirements.<br/><br/>
-  <a href="https://www.cyberiumtech.com.au/" target="_blank"><img src="https://img.shields.io/badge/Visit%20Website-cyberiumtech.com.au-111111?style=flat-square&logo=googlechrome&logoColor=white" alt="Cyberium Technologies website" /></a>
-</td>
-</tr>
-</table>
+Building and improving real web applications and business workflows across frontend, backend, debugging, integrations, APIs, databases, and deployment.
+
+[![Visit Website](https://img.shields.io/badge/Visit%20Website-webpal.it-111111?style=flat-square&logo=googlechrome&logoColor=white)](https://webpal.it/)
+
+### [Cyberium Technology Pvt. Ltd.](https://www.cyberiumtech.com.au/)
+**Software Developer** · 2024 — 2025
+
+Worked on application features, database-driven workflows, debugging, implementation, and practical software development across real project requirements.
+
+[![Visit Website](https://img.shields.io/badge/Visit%20Website-cyberiumtech.com.au-111111?style=flat-square&logo=googlechrome&logoColor=white)](https://www.cyberiumtech.com.au/)
 
 ---
 
