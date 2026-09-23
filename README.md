@@ -6,9 +6,9 @@
 
 I build practical web applications, business systems, and backend-driven products — from database design and APIs to responsive interfaces and deployment.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://www.sharmilashahi1.com.np/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharmila-shahi-a3a572218/)
-[![GitHub](https://img.shields.io/badge/GitHub-sharmilashahi752-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sharmilashahi752)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF4FA3?style=for-the-badge&logo=vercel&logoColor=white&labelColor=8B1E5A)](https://www.sharmilashahi1.com.np/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-EAB308?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=8A6A00)](https://www.linkedin.com/in/sharmila-shahi-a3a572218/)
+[![GitHub](https://img.shields.io/badge/GitHub-sharmilashahi752-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=3B1B72)](https://github.com/sharmilashahi752)
 
 </div>
 
