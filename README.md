@@ -16,21 +16,38 @@ I build practical web applications, business systems, and backend-driven product
 
 ## About Me
 
-> I like working on the complete product journey — understanding the problem, shaping the database and API layer, building the interface, and taking the application through deployment.
+I’m **Sharmila Shahi**, a **Full-Stack Developer** focused on building reliable, maintainable web applications and business systems from end to end.
 
-I’m a **Full-Stack Developer** with hands-on experience building real web applications and business systems. My strongest area is backend-driven development with **Laravel, PHP, MySQL, and REST APIs**, supported by modern frontend work in **React, Next.js, JavaScript, and TypeScript**.
+My core strength is backend-driven development with **Laravel, PHP, MySQL, PostgreSQL, and REST APIs**, combined with modern frontend work in **React, Next.js, JavaScript, TypeScript, Tailwind CSS, and Bootstrap**. I’m comfortable moving from requirement analysis and database design to API integration, responsive UI, debugging, testing, deployment, and ongoing product improvement.
 
-| | |
+I currently work as a **Web Developer at WebPal**, where I contribute to real product and business workflows across frontend and backend development. Previously, I worked as a **Software Developer at Cyberium Technology Pvt. Ltd.**, gaining practical experience building features, working with databases, solving application issues, and turning requirements into working software.
+
+### Professional Snapshot
+
+| Area | Details |
 |---|---|
-| 💼 **Current** | Web Developer at **WebPal** |
-| 🧩 **Previous** | Software Developer at **Cyberium Technology Pvt. Ltd.** |
-| ⚙️ **I enjoy solving** | Backend logic, APIs, database workflows, admin systems, integrations, and deployment issues |
-| 🧠 **How I work** | Practical first — understand the requirement, keep the architecture clear, and build for maintainability |
-| ☁️ **Growing into** | Docker, AWS, cloud deployment, and production workflows |
-| 🎓 **Education** | B.Tech in Information Technology — **Lumbini Technological University** |
-| 🤝 **Open to** | Full-time roles, remote opportunities, freelance projects, and product collaborations |
+| **Current Role** | Web Developer at **WebPal** |
+| **Previous Experience** | Software Developer at **Cyberium Technology Pvt. Ltd.** |
+| **Primary Focus** | Full-stack web development, backend systems, REST APIs, database-driven applications, admin systems, integrations, and deployment |
+| **Backend** | Laravel · PHP · REST APIs · MySQL · PostgreSQL |
+| **Frontend** | React · Next.js · JavaScript · TypeScript · Tailwind CSS · Bootstrap |
+| **DevOps & Delivery** | Docker · AWS · Vercel · Git · GitHub · Composer · npm |
+| **Project Experience** | E-commerce, hospitality, healthcare, news publishing, academic systems, business dashboards, and portfolio products |
+| **How I Work** | Understand the real requirement first, keep architecture clear, build maintainable solutions, test carefully, and iterate based on actual usage |
+| **Education** | **B.Tech in Information Technology**, Lumbini Technological University |
+| **Foundation** | 3-year Diploma in Computer Engineering |
+| **Languages** | Nepali — Native · English — Professional working proficiency · Hindi — Conversational |
+| **Open To** | Full-time roles · Remote opportunities · Freelance projects · Startup/product collaborations |
 
-**What I bring:** the ability to move comfortably between the user-facing interface and the backend system behind it — without losing sight of the actual business problem being solved.
+### What I Bring
+
+- **End-to-end ownership** — I can work across UI, backend logic, APIs, databases, debugging, and deployment.
+- **Business-focused development** — I care about whether a feature actually solves the user or business problem, not just whether it compiles.
+- **Backend depth with frontend awareness** — I’m strongest in Laravel/PHP and database-driven systems, while still being comfortable building modern React/Next.js interfaces.
+- **Production mindset** — I work with Git-based workflows, Docker, cloud/deployment tooling, testing, and iterative debugging.
+- **Continuous growth** — I’m actively strengthening backend architecture, DevOps, cloud deployment, and modern full-stack engineering practices.
+
+> I’m most interested in work where I can take a real problem, understand the workflow behind it, and turn it into software that is clear, useful, and dependable.
 
 ---
 
