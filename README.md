@@ -113,11 +113,12 @@ Workflow      Git · GitHub · Composer · npm · VS Code
 
 <div align="center">
 
-**Portfolio:** [sharmilashahi1.com.np](https://www.sharmilashahi1.com.np/)  
-**LinkedIn:** [Sharmila Shahi](https://www.linkedin.com/in/sharmila-shahi-a3a572218/)  
-**GitHub:** [@sharmilashahi752](https://github.com/sharmilashahi752)
+[![Portfolio](https://img.shields.io/badge/Portfolio-sharmilashahi1.com.np-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://www.sharmilashahi1.com.np/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sharmila%20Shahi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharmila-shahi-a3a572218/)
+[![GitHub](https://img.shields.io/badge/GitHub-@sharmilashahi752-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sharmilashahi752)
+[![Email](https://img.shields.io/badge/Email-sharmilashahi752%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharmilashahi752@gmail.com)
 
-<br/>
+<br/><br/>
 
 <sub>Building useful software with clean code, thoughtful UI, and reliable backend systems.</sub>
 
